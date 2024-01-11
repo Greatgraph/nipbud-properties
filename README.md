@@ -1,0 +1,1 @@
+# nipbud-properties
